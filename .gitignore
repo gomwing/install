@@ -1,11 +1,7 @@
 # gitignore for NDS develop
 
 # visual studio
-!.vs/
 .vs/*
-!.vs/tasks.vs.json
-!.vs/launch.vs.json
-!.vs/ProjectSettings.json
 
 # objects
 build/
